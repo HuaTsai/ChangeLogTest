@@ -1,6 +1,6 @@
 {
   "name": "changelogtest",
-  "version": "1.0.3",
+  "version": "v1.0.4",
   "description": "ChangeLog Test",
   "main": "index.js",
   "dependencies": {},

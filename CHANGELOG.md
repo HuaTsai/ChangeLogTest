@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/HuaTsai/ChangeLogTest/compare/1.0.3...1.0.4) (2020-05-08)
+
+
+### Features
+
+* t3 ([8aed22f](https://github.com/HuaTsai/ChangeLogTest/commit/8aed22f990a21a35a0aa345ce39dbe6d61d2725b))
+
+
+
 ## [1.0.3](https://github.com/HuaTsai/ChangeLogTest/compare/1.0.2...1.0.3) (2020-05-08)
 
 
