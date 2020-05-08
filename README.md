@@ -28,5 +28,5 @@
 4. modify version
 5. `conventional-changelog -p angular -i CHANGELOG.md -s`
 6. add and commit `package.json` and `CHANGELOG.md`
-7. tag
-8. push
+7. `git tag <version>`
+8. `git push --tags`
