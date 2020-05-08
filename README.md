@@ -27,6 +27,6 @@
 3. `git cz`
 4. modify version
 5. `conventional-changelog -p angular -i CHANGELOG.md -s`
-6. commit `package.json` and `CHANGELOG.md`
+6. add and commit `package.json` and `CHANGELOG.md`
 7. tag
 8. push
