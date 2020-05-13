@@ -1,6 +1,20 @@
 ## [1.0.7](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.6...v1.0.7) (2020-05-13)
 
 
+### Bug Fixes
+
+* fix [#2](https://github.com/HuaTsai/ChangeLogTest/issues/2) ([bbc26ec](https://github.com/HuaTsai/ChangeLogTest/commit/bbc26ecf545c52e08c567f3fb4813e3b7da70ee3))
+
+
+### Features
+
+* t7 ([0a4ddf2](https://github.com/HuaTsai/ChangeLogTest/commit/0a4ddf20200db90287facdfa50befe38257708d0)), closes [#1](https://github.com/HuaTsai/ChangeLogTest/issues/1)
+
+
+
+## [1.0.7](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.6...v1.0.7) (2020-05-13)
+
+
 ### Features
 
 * t7 ([0a4ddf2](https://github.com/HuaTsai/ChangeLogTest/commit/0a4ddf20200db90287facdfa50befe38257708d0)), closes [#1](https://github.com/HuaTsai/ChangeLogTest/issues/1)
