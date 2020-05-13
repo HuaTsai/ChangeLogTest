@@ -8,21 +8,12 @@
 
 
 
-## [1.0.6](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.5...v1.0.6) (2020-05-09)
+## [1.0.6](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.5...v1.0.6) (2020-05-13)
 
 
 ### Features
 
 * rEADME ([618d7a3](https://github.com/HuaTsai/ChangeLogTest/commit/618d7a38d1879208020a8bb0c46f5d99cb7015cf))
-* t6 ([4167f12](https://github.com/HuaTsai/ChangeLogTest/commit/4167f121e89e2d756ce9c8633e0ee80cae7893ce))
-
-
-
-## [1.0.6](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.5...v1.0.6) (2020-05-09)
-
-
-### Features
-
 * t6 ([4167f12](https://github.com/HuaTsai/ChangeLogTest/commit/4167f121e89e2d756ce9c8633e0ee80cae7893ce))
 
 
