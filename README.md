@@ -22,11 +22,12 @@
 
 ## Pipeline
 
-1. write code
-2. `git add`
-3. `git cz`
-4. modify version
-5. `conventional-changelog -p angular -i CHANGELOG.md -s`
-6. add and commit `package.json` and `CHANGELOG.md`
-7. `git tag <version>`
-8. `git push` and `git push --tags`
+1. hack code
+2. `git add` new files and modified files
+3. commit by `git cz`
+4. if it is first update of new version
+   * modify to new version in `package.json`
+5. `npm run matadata`
+6. `git push`
+7. if it is last update of current version
+   * `git tag <current_version> && git push --tags`
