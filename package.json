@@ -1,6 +1,6 @@
 {
   "name": "changelogtest",
-  "version": "v1.0.5",
+  "version": "v1.0.6",
   "description": "ChangeLog Test",
   "main": "index.js",
   "dependencies": {},
@@ -8,7 +8,7 @@
     "cz-conventional-changelog": "^3.2.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "matadata": "conventional-changelog -p angular -i CHANGELOG.md -s && git commit -a -m \"docs: update matadata\""
   },
   "repository": {
     "type": "git",

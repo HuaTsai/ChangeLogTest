@@ -1,9 +1,39 @@
-## [1.0.5](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.4...v1.0.5) (2020-05-08)
+## [1.0.6](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.5...v1.0.6) (2020-05-13)
+
+
+### Features
+
+* rEADME ([618d7a3](https://github.com/HuaTsai/ChangeLogTest/commit/618d7a38d1879208020a8bb0c46f5d99cb7015cf))
+* t6 ([4167f12](https://github.com/HuaTsai/ChangeLogTest/commit/4167f121e89e2d756ce9c8633e0ee80cae7893ce))
+
+
+
+## [1.0.6](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.5...v1.0.6) (2020-05-09)
+
+
+### Features
+
+* rEADME ([618d7a3](https://github.com/HuaTsai/ChangeLogTest/commit/618d7a38d1879208020a8bb0c46f5d99cb7015cf))
+* t6 ([4167f12](https://github.com/HuaTsai/ChangeLogTest/commit/4167f121e89e2d756ce9c8633e0ee80cae7893ce))
+
+
+
+## [1.0.6](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.5...v1.0.6) (2020-05-09)
+
+
+### Features
+
+* t6 ([4167f12](https://github.com/HuaTsai/ChangeLogTest/commit/4167f121e89e2d756ce9c8633e0ee80cae7893ce))
+
+
+
+## [1.0.5](https://github.com/HuaTsai/ChangeLogTest/compare/v1.0.4...v1.0.5) (2020-05-09)
 
 
 ### Features
 
 * t4 ([71e0efd](https://github.com/HuaTsai/ChangeLogTest/commit/71e0efdcdb088889adcc637da783d393efd54766))
+* t5 ([2e2586f](https://github.com/HuaTsai/ChangeLogTest/commit/2e2586f670ed1b7f2d98be7465f3d9cb9d4cc558))
 
 
 
